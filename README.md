@@ -1,6 +1,6 @@
 # CrackYourInternship-RudraVashishtha
 This challenge is started to help kickstart your preparation and revision journey for your dream Internship. This sheet will be updated with resources from time to time for your better understanding and preparation. This sheet has a curated set of around 270-280 questions .
-[Personal Google Sheet](https://docs.google.com/spreadsheets/d/1dgoE5wYgVI2y8WmJwjFrrp-DMAyL3dDUu3-vvBxOYC4/edit?usp=sharing)
+# [Personal Google Sheet](https://docs.google.com/spreadsheets/d/1dgoE5wYgVI2y8WmJwjFrrp-DMAyL3dDUu3-vvBxOYC4/edit?usp=sharing)
 
 DSA Sheet by Arsh
 #CrackYourInternship
